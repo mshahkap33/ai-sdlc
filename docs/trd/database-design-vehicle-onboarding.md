@@ -53,3 +53,6 @@ This is the single, canonical definition of the `vehicles` table, consolidating 
 | created_by | TEXT | | NOT NULL | Identifier of the user who created the record. |
 | updated_by | TEXT | | NOT NULL | Identifier of the user who last updated the record. |
 | deleted | BOOL | | NOT NULL, DEFAULT `false` | Soft-delete flag. |
+
+## AI Usage Disclaimer
+*This document was generated with the assistance of artificial intelligence and should be reviewed by a human for accuracy and completeness.*

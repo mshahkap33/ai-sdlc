@@ -189,3 +189,6 @@ The car rental business line is new to the Company, and no accounting workflows,
 - All manual price overrides, refunds, and waived fees have a complete, auditable approval trail.
 - Corporate invoices are issued accurately and on schedule for consolidated billing cycles.
 - Financial reports and KPIs (revenue/rental day, utilization, AR aging, refunds pending) are available on time for every reporting cadence (daily, weekly, monthly, period-end).
+
+## AI Usage Disclaimer
+*This document was generated with the assistance of artificial intelligence and should be reviewed by a human for accuracy and completeness.*

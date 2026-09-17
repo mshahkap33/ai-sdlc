@@ -121,3 +121,6 @@ This is important now because the company is entering the car rental business fo
 - Reduce average vehicle turnaround time (return to rentable) by a target amount (e.g., under 4 hours) once measured.
 - Achieve 95%+ compliance rate for up-to-date registration/insurance/inspection status across the fleet.
 - Reduce disputed damage claims through complete photo/checklist evidence capture at handover and return.
+
+## AI Usage Disclaimer
+*This document was generated with the assistance of artificial intelligence and should be reviewed by a human for accuracy and completeness.*

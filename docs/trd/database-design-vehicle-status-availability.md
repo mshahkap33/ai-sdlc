@@ -90,3 +90,6 @@ Configuration table mapping external/internal event types to the resulting autom
 | created_by | TEXT | - | NOT NULL | Identifier of the user/system that created the record |
 | updated_by | TEXT | - | NOT NULL | Identifier of the user/system that last updated the record |
 | deleted | BOOL | - | NOT NULL, DEFAULT false | Soft-delete flag |
+
+## AI Usage Disclaimer
+*This document was generated with the assistance of artificial intelligence and should be reviewed by a human for accuracy and completeness.*
