@@ -8,3 +8,6 @@ Repository Structure:
   - prd/ - Product Requirements Documents and supporting files
   - trd/ - Technical Requirements Documents and supporting files
   - test-scenario/ - QA test scenarios and supporting files
+ 
+- AI usage disclaimer: In each AI-generated document, add a static footnote:
+  This document was generated with the assistance of artificial intelligence and should be reviewed by a human for accuracy and completeness.
