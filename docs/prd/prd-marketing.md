@@ -227,3 +227,6 @@ As the company enters the car rental business for the first time, Marketing has 
 - Increase repeat-rental rate among existing car-sales customers by a target percentage.
 - Reduce customer acquisition cost (CAC) for rental customers over time.
 - Achieve a target promo code/campaign redemption rate on eligible bookings.
+
+## AI Usage Disclaimer
+*This document was generated with the assistance of artificial intelligence and should be reviewed by a human for accuracy and completeness.*

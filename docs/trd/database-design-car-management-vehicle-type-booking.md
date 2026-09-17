@@ -94,3 +94,6 @@ erDiagram
 | created_by | TEXT | - | NOT NULL | User who created the record |
 | updated_by | TEXT | - | NOT NULL | User who last updated the record |
 | deleted | BOOLEAN | - | NOT NULL, DEFAULT false | Soft-delete flag |
+
+## AI Usage Disclaimer
+*This document was generated with the assistance of artificial intelligence and should be reviewed by a human for accuracy and completeness.*
