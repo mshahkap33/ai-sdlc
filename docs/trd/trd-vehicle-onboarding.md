@@ -37,6 +37,7 @@ This TRD implements the functional requirement [Maintain Vehicle Master Data](..
 
 ### Database Design
 - Contains the tables required to store vehicle master data and vehicle categories. See [Database Design - Vehicle Onboarding](./database-design-vehicle-onboarding.md) for the entity relationship diagram and table definitions.
+- The `vehicles` table defined there is the single, canonical definition shared with the Vehicle-Type Booking and Vehicle Status & Availability TRDs (including the `status`/`status_since` columns owned by the latter); those TRDs must reuse it instead of redefining the table.
 
 ### Backend
 The Vehicle Onboarding capability is exposed through a REST API.
